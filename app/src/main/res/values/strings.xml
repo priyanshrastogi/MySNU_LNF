@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MySNU</string>
+    <string name="add_new">Add New Request</string>
+    <string name="add_title">Post Title</string>
+    <string name="add_disc">Post\nDescription</string>
+    <string name="add_title_hint">e.g. Lost or Found Smartphone</string>
+    <string name="add_disc_hint">Details about Lost or Found item</string>
+    <string name="post">Post</string>
+    <string name="title_activity_item_details">item_details</string>
+</resources>
